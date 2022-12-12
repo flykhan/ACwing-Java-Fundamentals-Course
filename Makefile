@@ -1,0 +1,2 @@
+clearclass:
+	rm -rf */*.class
