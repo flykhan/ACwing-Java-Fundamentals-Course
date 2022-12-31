@@ -1,4 +1,4 @@
-package 课堂案例;
+package cases;
 
 public class learn4 {
     public static void main(String[] args) {

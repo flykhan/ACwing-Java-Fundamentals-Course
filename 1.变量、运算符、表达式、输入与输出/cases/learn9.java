@@ -1,4 +1,4 @@
-package 课堂案例;
+package cases;
 
 import java.io.BufferedWriter;
 import java.io.OutputStreamWriter;
