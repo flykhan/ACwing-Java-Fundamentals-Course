@@ -1,3 +1,5 @@
+package 课堂案例;
+
 public class learn3 {
     public static void main(String[] args) {
         int a = 6 + 3 * 4 / 2 - 2;

@@ -1,4 +1,5 @@
-import java.io.BufferedReader;
+package 课堂案例;
+
 import java.io.BufferedWriter;
 import java.io.OutputStreamWriter;
 

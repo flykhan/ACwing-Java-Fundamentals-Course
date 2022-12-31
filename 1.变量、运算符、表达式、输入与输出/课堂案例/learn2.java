@@ -1,3 +1,5 @@
+package 课堂案例;
+
 public class learn2 {
     public static void main(String[] args) {
         int a = 5;

@@ -1,3 +1,5 @@
+package 课堂案例;
+
 public class learn8 {
     public static void main(String[] args) {
         System.out.println(123);// 输出整数+换行

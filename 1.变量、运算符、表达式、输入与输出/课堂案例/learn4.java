@@ -1,3 +1,5 @@
+package 课堂案例;
+
 public class learn4 {
     public static void main(String[] args) {
         double x = 1.5, y = 3.2;

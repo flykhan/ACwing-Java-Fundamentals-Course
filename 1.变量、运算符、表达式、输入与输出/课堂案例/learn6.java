@@ -1,3 +1,5 @@
+package 课堂案例;
+
 import java.util.Scanner;
 
 public class learn6 {
