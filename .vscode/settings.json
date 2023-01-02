@@ -1,0 +1,18 @@
+{
+    //java配置
+    "java.home": "C:\\Program Files\\Java\\jdk1.8.0_351",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "java.configuration.checkProjectSettingsExclusions": false,
+    "files.autoGuessEncoding":true,
+     //code run插件
+     "code-runner.executorMap": {
+        "java": "cd $dir && javac -encoding utf-8 $fileName && java $fileNameWithoutExt",
+    },
+    "java.project.sourcePaths": [
+        "1.变量、运算符、表达式、输入与输出/cases",
+        "1.变量、运算符、表达式、输入与输出/examples",
+        "1.变量、运算符、表达式、输入与输出/exercises",
+    ],
+    "java.debug.settings.onBuildFailureProceed": true,
+}
