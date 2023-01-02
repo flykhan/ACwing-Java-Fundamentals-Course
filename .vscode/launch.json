@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch acwing_611",
+            "request": "launch",
+            "mainClass": "acwing_611",
+            "projectName": "ACwing-Java-Fundamentals-Course_5dc75498"
+        },
+        {
+            "type": "java",
             "name": "Launch acwing_654",
             "request": "launch",
             "mainClass": "acwing_654",
