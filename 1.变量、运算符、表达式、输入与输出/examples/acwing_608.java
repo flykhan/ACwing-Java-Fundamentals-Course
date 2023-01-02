@@ -1,4 +1,3 @@
-package examples;
 import java.util.Scanner;
 
 /* 读取四个整数 A,B,C,D，并计算 (A×B−C×D) 的值。 */

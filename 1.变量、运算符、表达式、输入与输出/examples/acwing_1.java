@@ -1,5 +1,3 @@
-package examples;
-
 import java.util.Scanner;
 
 /* 输入两个整数，求这两个整数的和是多少。 */
