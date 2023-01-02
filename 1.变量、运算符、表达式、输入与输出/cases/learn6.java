@@ -1,5 +1,3 @@
-package cases;
-
 import java.util.Scanner;
 
 public class learn6 {

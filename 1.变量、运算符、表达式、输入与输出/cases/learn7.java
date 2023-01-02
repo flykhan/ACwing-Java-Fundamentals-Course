@@ -1,4 +1,3 @@
-package cases;
 /* 效率较高，输入规模较大时使用。注意需要抛异常。 */
 
 import java.io.BufferedReader;

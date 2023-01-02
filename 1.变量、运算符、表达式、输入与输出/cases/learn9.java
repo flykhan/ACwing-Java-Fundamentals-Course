@@ -1,5 +1,3 @@
-package cases;
-
 import java.io.BufferedWriter;
 import java.io.OutputStreamWriter;
 
