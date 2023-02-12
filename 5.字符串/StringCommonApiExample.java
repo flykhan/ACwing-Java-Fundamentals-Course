@@ -5,7 +5,7 @@ javac -encoding utf-8 Main.java
  */
 
 public class StringCommonApiExample {
-    public static void main(String[] args) {
+    public void apisTest() {
         String str = "Hello World flkh";
 
         // 求字符串长度
@@ -63,5 +63,9 @@ public class StringCommonApiExample {
         for (int i = 0; i < chars.length; i++) {
             System.out.println(chars[i]);
         }
+    }
+
+    public static void main(String[] args) {
+        new StringCommonApiExample().apisTest();
     }
 }
