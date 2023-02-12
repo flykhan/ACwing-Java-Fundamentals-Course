@@ -6,6 +6,9 @@
     "java.configuration.checkProjectSettingsExclusions": false,
     "files.autoGuessEncoding":true,
      //code run插件
+     /* 使用下述命令来指定编译时的编码类型为UTF-8
+            javac -encoding utf-8 Main.java 
+     */
      "code-runner.executorMap": {
         "java": "cd $dir && javac -encoding utf-8 $fileName && java $fileNameWithoutExt",
     },
@@ -13,7 +16,8 @@
         "1.变量、运算符、表达式、输入与输出/cases",
         "1.变量、运算符、表达式、输入与输出/examples",
         "1.变量、运算符、表达式、输入与输出/exercises",
-        "nothing"
+        "nothing",
+        "5.字符串"
     ],
     "java.debug.settings.onBuildFailureProceed": true,
 }
