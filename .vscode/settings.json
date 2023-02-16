@@ -13,11 +13,18 @@
         "java": "cd $dir && javac -encoding utf-8 $fileName && java $fileNameWithoutExt",
     },
     "java.project.sourcePaths": [
-        "1.变量、运算符、表达式、输入与输出/cases",
-        "1.变量、运算符、表达式、输入与输出/examples",
-        "1.变量、运算符、表达式、输入与输出/exercises",
+        "蓝桥春招课",
         "nothing",
-        "5.字符串"
+        "7.类与接口",
+        "6.函数",
+        "5.字符串",
+        "4.数组",
+        "3.循环语句",
+        "2.判断语句",
+        "1.变量、运算符、表达式、输入与输出/exercises",
+        "1.变量、运算符、表达式、输入与输出/examples",
+        "1.变量、运算符、表达式、输入与输出/cases",
+        "8.常用容器"
     ],
     "java.debug.settings.onBuildFailureProceed": true,
 }
