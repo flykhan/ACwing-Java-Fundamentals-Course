@@ -17,7 +17,11 @@ public class Main {
         Hero[] heros = {
                 new Zeus(), new Athena(),
         };
-        heros[0].great();
-        heros[1].great();
+        for (Hero hero : heros) {
+            hero.great();
+            hero.attack();
+            hero.move();
+            System.out.println(hero.getSpeed());
+        }
     }
 }

@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch SetExample",
+            "request": "launch",
+            "mainClass": "set.SetExample",
+            "projectName": "ACwing-Java-Fundamentals-Course_5dc75498"
+        },
+        {
+            "type": "java",
+            "name": "Launch QueueExample",
+            "request": "launch",
+            "mainClass": "queue.QueueExample",
+            "projectName": "ACwing-Java-Fundamentals-Course_5dc75498"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "list.Main",
+            "projectName": "ACwing-Java-Fundamentals-Course_5dc75498"
+        },
+        {
+            "type": "java",
             "name": "Launch Main",
             "request": "launch",
             "mainClass": "Main",
