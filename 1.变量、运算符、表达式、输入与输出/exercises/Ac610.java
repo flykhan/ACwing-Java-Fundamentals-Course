@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+import 题目.Main;
+
 class Main {
 
     // 计算工资和薪水

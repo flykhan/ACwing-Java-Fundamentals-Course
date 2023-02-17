@@ -2,8 +2,6 @@ package 题目;
 
 import java.util.Scanner;
 
-import Main;
-
 class Main {
     // 倍数计算
     public void multiple() {
