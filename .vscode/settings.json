@@ -15,6 +15,7 @@
     "java.project.sourcePaths": [
         "蓝桥春招课",
         "nothing",
+        "9.异常处理",
         "8.常用容器",
         "7.类与接口",
         "6.函数",
@@ -25,7 +26,7 @@
         "1.变量、运算符、表达式、输入与输出/exercises",
         "1.变量、运算符、表达式、输入与输出/examples",
         "1.变量、运算符、表达式、输入与输出/cases",
-        "9.异常处理"
+        "10.注解与反射"
     ],
     "java.debug.settings.onBuildFailureProceed": true,
 }

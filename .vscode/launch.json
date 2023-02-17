@@ -6,79 +6,9 @@
     "configurations": [
         {
             "type": "java",
-            "name": "Launch SetExample",
-            "request": "launch",
-            "mainClass": "set.SetExample",
-            "projectName": "ACwing-Java-Fundamentals-Course_5dc75498"
-        },
-        {
-            "type": "java",
-            "name": "Launch QueueExample",
-            "request": "launch",
-            "mainClass": "queue.QueueExample",
-            "projectName": "ACwing-Java-Fundamentals-Course_5dc75498"
-        },
-        {
-            "type": "java",
             "name": "Launch Main",
             "request": "launch",
-            "mainClass": "list.Main",
-            "projectName": "ACwing-Java-Fundamentals-Course_5dc75498"
-        },
-        {
-            "type": "java",
-            "name": "Launch Main",
-            "request": "launch",
-            "mainClass": "Main",
-            "projectName": "ACwing-Java-Fundamentals-Course_5dc75498"
-        },
-        {
-            "type": "java",
-            "name": "Launch Ac35",
-            "request": "launch",
-            "mainClass": "Ac35",
-            "projectName": "ACwing-Java-Fundamentals-Course_5dc75498"
-        },
-        {
-            "type": "java",
-            "name": "Launch acwing_607",
-            "request": "launch",
-            "mainClass": "acwing_607",
-            "projectName": "ACwing-Java-Fundamentals-Course_5dc75498"
-        },
-        {
-            "type": "java",
-            "name": "Launch DataSort",
-            "request": "launch",
-            "mainClass": "DataSort",
-            "projectName": "ACwing-Java-Fundamentals-Course_5dc75498"
-        },
-        {
-            "type": "java",
-            "name": "Launch PluginTimer",
-            "request": "launch",
-            "mainClass": "PluginTimer",
-            "projectName": "ACwing-Java-Fundamentals-Course_5dc75498"
-        },
-        {
-            "type": "java",
-            "name": "Launch acwing_611",
-            "request": "launch",
-            "mainClass": "acwing_611",
-            "projectName": "ACwing-Java-Fundamentals-Course_5dc75498"
-        },
-        {
-            "type": "java",
-            "name": "Launch acwing_654",
-            "request": "launch",
-            "mainClass": "acwing_654",
-            "projectName": "ACwing-Java-Fundamentals-Course_5dc75498"
-        },
-        {
-            "type": "java",
-            "name": "Launch Test",
-            "request": "launch",
-            "mainClass": "Test",
+            "mainClass": "caculator.Main",
             "projectName": "ACwing-Java-Fundamentals-Course_5dc75498"
         },
         {
