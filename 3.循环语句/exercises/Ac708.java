@@ -1,6 +1,6 @@
 import Main;
 
-package 题目;
+package exercises;
 
 class Main {
     // 偶数输出

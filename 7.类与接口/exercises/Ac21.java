@@ -1,4 +1,4 @@
-package 题目;
+package exercises;
 
 import java.util.Scanner;
 

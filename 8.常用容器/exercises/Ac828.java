@@ -1,4 +1,4 @@
-package 题目;
+package exercises;
 
 class Main {
     public static void main(String[] args) {
