@@ -1,4 +1,8 @@
+package 题目;
+
 import java.util.Scanner;
+
+import 题目.Main;
 
 class Main {
     // 阶乘

@@ -1,3 +1,7 @@
+import Main;
+
+package 题目;
+
 class Main {
     // 偶数输出
     public void evenNumberOutPut() {
